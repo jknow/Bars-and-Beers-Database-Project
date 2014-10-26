@@ -1,0 +1,59 @@
+Belgian Strong Dark Ale
+Belgian Strong Pale Ale
+Scotch Ale / Wee Heavy
+Märzen / Oktoberfest
+English Strong Ale
+California Common
+Low Alcohol (NA)
+American Blonde
+Berliner Weisse
+Belgian Blonde
+Belgian Tripel
+Belgian Dubbel
+Belgian Golden
+English Bitter
+Specialty Beer
+Bière de Garde
+Belgian Amber
+Belgian Brown
+Winter Warmer
+Flemish Brown
+American Wild
+Kristalweizen
+Belgian Quad
+Strong Lager
+Dunkelweizen
+Vienna Lager
+Scottish Ale
+Flemish Red
+White Wheat
+Schwarzbier
+Light Lager
+Pumpkin Ale
+Barleywine
+Doppelbock
+Pale Lager
+Strong Ale
+Hefeweizen
+Dark Lager
+Weizenbock
+Brown Ale
+Cream Ale
+Imperial
+Pale Ale
+Maibock
+Pilsner
+Altbier
+Eisbock
+Lambic
+Porter
+Saison
+Kölsch
+Amber
+Cider
+Wheat
+Stout
+Mead
+Bock
+IPA
+ESB

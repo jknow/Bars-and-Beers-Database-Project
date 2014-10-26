@@ -1,0 +1,657 @@
+NAME STYLE SIZE ABV %
+Australia
+Coopers Extra Stout Stout 12oz 6.0%
+Coopers Pale Ale Pale Ale 12oz 4.4%
+Coopers Sparkling Ale Pale Ale 12oz 5.8%
+Foster's Pale Lager 12oz 4.9%
+Foster's Pale Lager 25oz Can 4.9%
+Austria
+Samichlaus Doppelbock 11oz 14.0%
+Samichlaus Helles Doppelbock 11oz 14.0%
+Stiegl Goldbräu Pale Lager 11oz 4.9%
+Stiegl Pilsner Pilsner 16oz 5.0%
+Bahamas
+Kalik Pale Lager 12oz 5.0%
+Barbados
+Banks Beer Pale Lager 12oz 5.0%
+Belgium
+Affligem Blonde Belgian Blonde 12oz 6.8%
+Affligem Dubbel Belgian Dubbel 25oz 6.8%
+Affligem Tripel Belgian Tripel 25oz 9.5%
+Bavik Premium Pils Pilsner 11oz 5.2%
+Blanche de Bruxelles White Wheat 16oz Can 4.4%
+Boucanier Dark Ale Belgian Strong Dark Ale 11oz 8.9%
+Boucanier Golden Ale Belgian Golden 11oz 11.0%
+Boucanier Red Ale Belgian Strong Dark Ale 11oz 7.0%
+Brasserie des Rocs Blonde Belgian Blonde 11oz 7.4%
+Brasserie des Rocs Grand Cru Belgian Strong Dark Ale 11oz 9.5%
+Brasserie des Rocs Triple Imperial Belgian Strong Dark Ale 11oz 10.0%
+Brouwerij Hof Ten Dormaal White Gold Belgian Strong Pale Ale 11oz 8.0%
+Chapeau Banana Lambic 12oz 3.5%
+Chapeau Fraises (Strawberry) Lambic 12oz 3.0%
+Chapeau Kriek Lambic 12oz 3.5%
+Chimay Cinq Cents Belgian Tripel 11oz 8.0%
+Chimay Cinq Cents Belgian Tripel 25oz 8.0%
+Chimay Grande Reserve Belgian Quad 11oz 9.0%
+Chimay Grande Reserve Belgian Quad 25oz 9.0%
+Chimay Premiere Belgian Dubbel 11oz 7.0%
+Chimay Premiere Belgian Dubbel 25oz 7.0%
+BOTTLES
+WINTER 2013-2014
+Belgium
+Chouffe Houblon Dobbelen IPA Tripel Belgian Strong Pale Ale 25oz 8.9%
+Delirium Nocturnum Belgian Strong Dark Ale 11oz 8.5%
+Delirium Nocturnum Belgian Strong Dark Ale 25oz 8.5%
+Delirium Noel Belgian Strong Dark Ale 11oz 10.0%
+Delirium Tremens Belgian Golden 11oz 8.5%
+Delirium Tremens Belgian Golden 25oz 8.5%
+Duvel Belgian Golden 11oz 8.5%
+Duvel Belgian Golden 25oz 8.5%
+Foret Organic Saison 11oz 7.4%
+Gouden Carolus Hopsinjoor Belgian Blonde 25oz 8.0%
+Gouden Carolus Tripel Belgian Tripel 11oz 9.0%
+Grimbergen Blonde Belgian Blonde 11oz 6.7%
+Grimbergen Dubbel Belgian Dubbel 11oz 6.5%
+Gulden Draak Belgian Strong Dark Ale 11oz 10.5%
+Gulden Draak Belgian Strong Dark Ale 25oz 10.5%
+Hoegaarden White Wheat 11oz 4.9%
+Kasteel Donker Belgian Brown 11oz 11.0%
+Kasteel Donker Belgian Brown 25oz 11.0%
+Kasteel Tripel Belgian Tripel 11oz 11.0%
+Kasteel Tripel Belgian Tripel 25oz 11.0%
+Kwak Belgian Amber 25oz 8.4%
+La Caracole Ambree Belgian Amber 11oz 7.4%
+La Caracole Ambree Belgian Amber 25oz 7.4%
+La Caracole Nostradamus Belgian Brown 11oz 9.5%
+La Caracole Saxo Belgian Blonde 11oz 8.0%
+La Caracole Saxo Belgian Blonde 25oz 8.0%
+La Caracole Troublette White Wheat 11oz 6.0%
+La Caracole Troublette White Wheat 25oz 6.0%
+La Chouffe Belgian Golden 25oz 8.0%
+Leffe Brune Belgian Brown 12oz 6.5%
+Lindemans Cassis (Black Currant) Lambic 12oz 4.0%
+Lindemans Framboise (Raspberry) Lambic 12oz 2.5%
+Lindemans Framboise (Raspberry) Lambic 25oz 2.5%
+Lindemans Kriek (Cherry) Lambic 12oz 4.0%
+Lindemans Kriek (Cherry) Lambic 25oz 4.0%
+Lindemans Peche (Peach) Lambic 12oz 2.5%
+Lindemans Peche (Peach) Lambic 25oz 2.5%
+Lindemans Pomme (Green Apple) Lambic 12oz 3.5%
+Lindemans Pomme (Green Apple) Lambic 25oz 3.5%
+Malheur 10 Belgian Strong Pale Ale 11oz 10.0%
+Maredsous 10 Belgian Tripel 11oz 10.0%
+Maredsous 10 Belgian Tripel 25oz 10.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Belgium
+Maredsous 8 Belgian Dubbel 11oz 8.0%
+Maredsous 8 Belgian Dubbel 25oz 8.0%
+McChouffe Belgian Strong Dark Ale 25oz 8.0%
+Moinette Blonde Belgian Blonde 25oz 8.5%
+Moinette Brune Belgian Brown 25oz 8.5%
+Orval Trappist Ale Belgian Strong Pale Ale 11oz 6.0%
+Piraat Belgian Strong Pale Ale 11oz 10.5%
+Piraat Belgian Strong Pale Ale 25oz 10.5%
+Saison Dupont Vieille Provision Saison 25oz 6.5%
+Scaldis Noel Belgian Strong Pale Ale 25oz 12.0%
+Scotch de Silly Scotch Ale / Wee Heavy 11oz 8.0%
+St. Bernardus Abt 12 Belgian Quad 11oz 10.0%
+St. Bernardus Abt 12 Belgian Quad 25oz 10.0%
+St. Bernardus Prior 8 Belgian Dubbel 11oz 8.0%
+St. Bernardus Prior 8 Belgian Dubbel 25oz 8.0%
+St. Bernardus Tripel Belgian Tripel 11oz 8.0%
+St. Bernardus Tripel Belgian Tripel 25oz 8.0%
+St. Bernardus Watou Tripel Belgian Tripel 11oz 7.0%
+St. Bernardus Watou Tripel Belgian Tripel 25oz 7.0%
+St. Bernardus Witbier White Wheat 11oz 5.5%
+St. Feuillien Brune Belgian Brown 25oz 7.4%
+St. Feuillien Triple Belgian Tripel 11oz 8.5%
+St. Feuillien Triple Belgian Tripel 25oz 8.5%
+St. Louis Premium Peche Lambic 12oz 3.5%
+St. Sebastiaan Dark Belgian Dubbel 16oz 6.9%
+St. Sebastiaan Golden Belgian Golden 16oz 7.5%
+St. Sebastiaan Grand Reserve Belgian Strong Dark Ale 16oz 10.0%
+Steenbrugge Tripel Belgian Tripel 25oz 8.7%
+Steenbrugge Wit White Wheat 25oz 5.0%
+Stella Artois Pale Lager 12oz 5.2%
+Tripel Karmeliet Belgian Tripel 11oz 8.4%
+Tripel Karmeliet Belgian Tripel 25oz 8.4%
+Urthel Hop-It Belgian Blonde 11oz 9.5%
+Urthel Vlaemse Bock Bock 11oz 7.4%
+Val-Dieu Blonde Belgian Blonde 11oz 6.0%
+Val-Dieu Blonde Belgian Blonde 25oz 6.0%
+Val-Dieu Brown Belgian Brown 11oz 8.0%
+Val-Dieu Brown Belgian Brown 25oz 8.0%
+Val-Dieu Grand Cru Belgian Strong Dark Ale 25oz 11.0%
+Val-Dieu Triple Belgian Tripel 11oz 9.0%
+Val-Dieu Triple Belgian Tripel 25oz 9.0%
+Verhaeghe Duchesse De Bourgogne Flemish Red 11oz 6.2%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Belgium
+Verhaeghe Echt Kriekenbier Flemish Red 11oz 6.8%
+Verhaeghe Vichtenaar Flemish Red 11oz 5.0%
+Westmalle Dubbel Belgian Dubbel 11oz 7.0%
+Westmalle Tripel Belgian Tripel 11oz 9.5%
+Wittekerke White Wheat 12oz Can 5.0%
+Brazil
+Xingu Black Beer Schwarzbier 12oz 4.3%
+Canada
+Labatt Blue Pale Lager 12oz 5.0%
+Molson Canadian Pale Lager 12oz 5.0%
+Moosehead Lager Pale Lager 12oz 5.0%
+Unibroue Blanche de Chambly White Wheat 12oz 5.0%
+Unibroue Don de Dieu Belgian Strong Pale Ale 12oz 9.0%
+Unibroue Éphémère White Wheat 12oz 5.5%
+Unibroue La Fin du Monde Belgian Tripel 12oz 8.9%
+Unibroue La Fin du Monde Belgian Tripel 25oz 8.9%
+Unibroue Maudite Belgian Amber 12oz 8.0%
+Unibroue Maudite Belgian Amber 25oz 8.0%
+Unibroue Trois Pistoles Belgian Strong Dark Ale 12oz 8.9%
+China
+Tsingtao Premium Pale Lager 12oz 4.8%
+Yanjing Pale Lager 12oz 4.5%
+Colombia
+Aguila Pale Lager 12oz 4.0%
+Costa Rica
+Imperial Pale Lager 12oz 4.5%
+Croatia
+Karlovacko Pale Lager 16oz 5.3%
+Czech Republic
+Czechvar Pale Lager 12oz 5.0%
+Krušovice Dark Schwarzbier 16oz 4.4%
+Krušovice Imperial  Pale Lager 16oz 5.0%
+Pilsner Urquell Pilsner 12oz 4.3%
+Primator Premium Lager Pale Lager 16oz 5.0%
+Staropramen Pilsner 11oz 5.0%
+Denmark
+Carlsberg Pale Lager 12oz 5.0%
+Carlsberg Pale Lager 16oz Can 5.0%
+Carlsberg Elephant Strong Lager 12oz 7.1%
+Evil Twin LIL' B Imperial Porter 12oz 11.5%
+Evil Twin Low Life Pilsner 12oz 5.5%
+Evil Twin Ryan and the Easter Bunny Saison 12oz 7.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Dominican
+Presidente Pilsner 12oz 5.0%
+England
+Bass Ale Pale Ale 12oz 5.0%
+Bass IPA IPA 12oz 6.0%
+Black Sheep Ale English Bitter 16oz 4.4%
+Black Sheep Monty Python's Holy Grail Pale Ale 12oz 4.7%
+Blackthorn Cider Cider 12oz 6.0%
+Boddington's Pub Ale English Bitter 16oz Can 4.8%
+Fuller's ESB ESB 11oz 5.5%
+Fuller's London Porter Porter 11oz 5.4%
+Fuller's London Pride Pale Ale 11oz 4.7%
+Greene King Abbot Ale English Bitter 16oz 5.0%
+Hen's Tooth English Strong Ale 18oz 6.5%
+John Smith's Extra Smooth English Bitter 14oz Can 3.8%
+Meantime Coffee Porter Porter 11oz 6.0%
+Nethergate Old Growler Porter 16oz 5.5%
+Newcastle Brown Ale Brown Ale 12oz 5.0%
+Old Golden Hen English Bitter 12oz 4.1%
+Old Speckled Hen English Bitter 12oz 5.1%
+Old Speckled Hen English Bitter 14oz Can 5.1%
+Olde Suffolk English Strong Ale 18oz 5.9%
+RCH Old Slug Porter Porter 16oz 4.4%
+Ruddles County English Bitter 18oz 5.0%
+Samuel Smith Imperial Stout Imperial Stout 12oz 7.0%
+Samuel Smith India Ale IPA 12oz 5.0%
+Samuel Smith Nut Brown Ale Brown Ale 12oz 5.0%
+Samuel Smith Oatmeal Stout Stout 12oz 5.0%
+Samuel Smith Organic Chocolate Stout Stout 18oz 5.0%
+Samuel Smith Organic Cider Cider 12oz 5.0%
+Samuel Smith Organic Lager Pale Lager 12oz 5.0%
+Samuel Smith Organic Pale Ale Pale Ale 12oz 5.0%
+Samuel Smith Taddy Porter Porter 12oz 5.0%
+Samuel Smith Yorkshire Stingo English Strong Ale 18oz 9.0%
+St. Peter's Cream Stout Stout 16oz 6.5%
+St. Peter's English Ale Pale Ale 16oz 4.4%
+St. Peter's India Pale Ale IPA 16oz 6.0%
+St. Peter's Old-Style Porter Porter 16oz 5.0%
+Strongbow Cider 16oz Can 5.0%
+Tetley's English Ale English Bitter 16oz Can 3.6%
+The Tanner's Jack English Bitter 12oz 4.3%
+Wells Banana Bread Beer English Bitter 16oz 5.2%
+Wells Bombardier Ale English Bitter 14oz Can 4.7%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+England
+Wexford Irish Cream Ale Cream Ale 16oz Can 5.0%
+Wychwood Hobgoblin English Bitter 12oz 5.2%
+Wychwood Scarecrow Pale Ale 16oz 4.7%
+Wychwood Wychcraft Pale Ale 16oz 4.4%
+Young's Double Chocolate Stout Stout 14oz Can 5.2%
+Young's Double Chocolate Stout Stout 16oz 5.2%
+Ethiopia
+Bedele Special Beer Pale Lager 12oz 5.5%
+Finland
+Sinebrychoff Baltic Porter 11oz 7.2%
+France
+Belzebuth Belgian Strong Pale Ale 8oz 13.0%
+Kronenbourg 1664 Pale Lager 12oz 5.0%
+St. Amand French Country Ale Bière de Garde 25oz 5.8%
+Germany
+Aecht Schlenkerla Oak Smoked Doppelbock 16oz 8.0%
+Augustiner Bräu Edelstoff Pale Lager 12oz 5.6%
+Ayinger Brau-Weisse Hefeweizen 12oz 5.0%
+Ayinger Celebrator Doppelbock Doppelbock 12oz 6.7%
+Ayinger Jahrhundert-Bier Pale Lager 16oz 6.0%
+Beck's Pale Lager 12oz 4.8%
+Bischoff Pilsner Pilsner 12oz 4.7%
+Clausthaler Amber Low Alcohol (NA) 12oz 0.5%
+Clausthaler Premium Low Alcohol (NA) 12oz 0.5%
+Dortmunder-Actien Brauerei Original Pilsner 16oz 5.0%
+Einbecker Brauherren Pilsner Pilsner 11oz 4.9%
+Einbecker Schwarzbier Schwarzbier 11oz 4.9%
+Einbecker Ur-Bock Dunkel Bock 12oz 6.5%
+Erdinger Hefe-Weizen Hefeweizen 16oz 5.2%
+Erdinger Hefe-Weizen Dark Dunkelweizen 16oz 6.0%
+Flensburger Dunkel Dark Lager 12oz 4.8%
+Flensburger Gold Pale Lager 12oz 4.8%
+Flensburger Pilsner Pilsner 16oz 4.8%
+Flensburger Weizen Hefeweizen 11oz 5.1%
+Franziskaner Dunkel-Weisse Dunkelweizen 16oz 6.0%
+Franziskaner Hefe-Weisse Hefeweizen 16oz 5.0%
+Hacker-Pschorr Oktoberfest Märzen / Oktoberfest 12oz 5.8%
+Hacker-Pschorr Weisse Hefeweizen 12oz 6.0%
+Hacker-Pschorr Weisse Dark Dunkelweizen 12oz 5.2%
+Hofbrau Dunkel Dark Lager 11oz 5.5%
+Hofbrau Hefe Weizen Hefeweizen 11oz 5.1%
+Hofbrau Original Pale Lager 11oz 5.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Germany
+Jever Pilsner Pilsner 12oz 4.9%
+Julius Echter Dunkel Weizen Dunkelweizen 16oz 5.6%
+Julius Echter Hefe Weizen Hefeweizen 16oz 5.2%
+Paulaner Hefe-Weizen Hefeweizen 12oz Can 5.5%
+Paulaner Original Lager Pale Lager 12oz 4.9%
+Paulaner Pilsner Pilsner 12oz 4.9%
+Paulaner Salvator Doppelbock 12oz 7.9%
+Pinkus Hefe-Weizen Hefeweizen 16oz 5.0%
+Pinkus Jubilate Dark Lager 16oz 6.0%
+Pinkus Munster Alt Altbier 16oz 5.0%
+Pinkus Ur Pils Pilsner 16oz 5.1%
+Radeberger Pilsner Pilsner 11oz 4.8%
+Reissdorf Kölsch Kölsch 16oz 4.8%
+Reutberger Export Dunkel Dark Lager 16oz 5.3%
+Schneider Aventinus Weizen-Eisbock Eisbock 12oz 12.0%
+Schneider Aventinus Wheat Doppelbock Weizenbock 16oz 8.2%
+Schneider Weisse Original Hefeweizen 16oz 5.3%
+Schneider Wiesen Edel-Weisse Hefeweizen 16oz 6.2%
+Schonramor Gold Märzen / Oktoberfest 16oz 6.0%
+Spaten Dunkel Dark Lager 12oz 5.2%
+Spaten Optimator Doppelbock 12oz 7.5%
+Spaten Premium Lager Pale Lager 12oz 5.2%
+St. Pauli Girl Pale Lager 12oz 4.9%
+Tucher Dunkles Hefeweizen Dunkelweizen 16oz 5.3%
+Tucher Helles Hefeweizen Hefeweizen 16oz 5.2%
+Tucher Kristall Weizen Kristalweizen 16oz 5.2%
+Warsteiner Premium Dunkel Dark Lager 12oz 4.8%
+Warsteiner Premium Verum Pilsner 12oz 4.8%
+Weihenstephaner Hefeweissbier Hefeweizen 16oz 5.4%
+Weihenstephaner Hefeweissbier Dunkel Dunkelweizen 16oz 5.3%
+Weihenstephaner Korbinian Doppelbock 16oz 7.4%
+Weihenstephaner Kristall Weissbier Kristalweizen 16oz 5.4%
+Weihenstephaner Original Pale Lager 16oz 5.1%
+Weltenburger Kloster Asam Bock Doppelbock 16oz 6.9%
+Weltenburger Kloster Barock Dunkel Dark Lager 16oz 5.0%
+Weltenburger Kloster Hefe-Weissbier Hell Hefeweizen 16oz 5.3%
+Weltenburger Kloster Pils Pilsner 16oz 4.9%
+India
+Kingfisher Pale Lager 12oz 4.8%
+Taj Mahal Pale Lager 22oz 4.4%
+Ireland
+Guinness Black Lager Dark Lager 12oz 4.5%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Ireland
+Guinness Draught Stout 11oz 4.2%
+Guinness Draught Stout 14oz Can 4.2%
+Harp Lager Pale Lager 12oz 4.2%
+Kaliber Low Alcohol (NA) 12oz 0.5%
+Magner's Irish Cider Cider 12oz 4.4%
+Murphy's Irish Red Amber / Red Ale 16oz Can 5.0%
+Murphy's Irish Stout Stout 16oz Can 4.0%
+O'Hara's Irish Stout Stout 11oz 4.3%
+Smithwick's Amber / Red Ale 12oz 4.4%
+Italy
+Birra Moretti Pale Lager 12oz 4.6%
+Birra Moretti La Rossa Doppelbock 12oz 7.1%
+Peroni Pale Lager 12oz 5.0%
+Jamaica
+Red Stripe Pale Lager 12oz 5.0%
+Red Stripe Light Light Lager 12oz 3.6%
+Japan
+Asahi Super Dry Pale Lager 12oz 5.0%
+Hitachino Nest Real Ginger Ale Specialty Beer 11oz 7.0%
+Hitachino Nest White Ale White Wheat 11oz 5.5%
+Kirin Ichiban Pale Lager 12oz 4.9%
+Sapporo Pale Lager 12oz 5.0%
+Kenya
+Tusker Pale Lager 12oz 4.2%
+Laos
+Beerlao Dark Dark Lager 11oz 6.5%
+Lithuania
+Kalnapilis Pale Lager 16oz 5.0%
+Mexico
+Bohemia Pale Lager 12oz 5.2%
+Carta Blanca Pale Lager 12oz 4.0%
+Corona Extra Pale Lager 12oz 4.5%
+Corona Light Light Lager 12oz 3.6%
+Dos Equis XX Amber Vienna Lager 12oz 5.0%
+Dos Equis XX Lager Pale Lager 12oz 4.4%
+Modelo Especial Pale Lager 12oz 4.4%
+Modelo Negra Vienna Lager 12oz 5.9%
+Pacifico Clara Pale Lager 12oz 4.4%
+Sol Pale Lager 12oz 4.4%
+Tecate Pale Lager 12oz 6.0%
+Morocco
+Casablanca Pale Lager 12oz 5.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Netherlands
+Amstel Light Light Lager 12oz 3.5%
+Grolsch Pale Lager 12oz 5.0%
+Grolsch Pale Lager 16oz 5.0%
+Heineken Pale Lager 12oz 4.2%
+Heineken Light Light Lager 12oz 3.2%
+La Trappe Dubbel Belgian Dubbel 25oz 7.0%
+La Trappe Quadrupel Belgian Quad 25oz 10.0%
+La Trappe Triple Belgian Tripel 25oz 8.0%
+Tilburg's Dutch Brown Brown Ale 11oz 5.6%
+New Zealand
+Moa Blanc Evolution Specialty Beer 12oz 6.2%
+Moa Breakfast Wheat 12oz 5.5%
+Philippines
+San Miguel Premium Pale Lager 12oz 5.0%
+Poland
+Hevelius Kaper Strong Lager 16oz 8.6%
+Lezajsk Pelne Pale Lager 16oz 5.5%
+Lomza Mocne Strong Lager 16oz 8.0%
+Okocim O.K. Beer Pale Lager 12oz 5.6%
+Okocim O.K. Beer Pale Lager 16oz 5.6%
+Tatra Pils Pilsner 16oz Can 5.7%
+Warka Premium Lager Pale Lager 16oz 5.7%
+Warka Strong Strong Lager 16oz 7.0%
+Zywiec Pale Lager 16oz 5.6%
+Zywiec Pale Lager 16oz Can 5.6%
+Russia
+Baltika 3 Pale Lager 16oz 4.8%
+Baltika 5 "Gold" Pale Lager 16oz 5.3%
+Baltika 7 Pale Lager 16oz 5.4%
+Baltika Zhiguljovskoje Pale Lager 16oz 4.0%
+Scotland
+Belhaven Scottish Stout Stout 16oz 7.0%
+Belhaven Twisted Thistle IPA IPA 16oz 6.0%
+Belhaven Wee Heavy Scotch Ale / Wee Heavy 16oz 6.5%
+Harviestoun Old Engine Oil Porter 11oz 5.9%
+Inverlamond Blackfriar Scottish Ale 16oz 7.0%
+Orkney Dark Island Scottish Ale 16oz 4.5%
+Orkney Skullsplitter Scotch Ale / Wee Heavy 11oz 8.5%
+Orkney The Red MacGregor Scottish Ale 16oz 4.0%
+Williams Brothers Alba Scots Pine Ale Specialty Beer 12oz 7.4%
+Williams Brothers Ebulum Specialty Beer 12oz 6.5%
+Williams Brothers Fraoch Specialty Beer 12oz 5.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Scotland
+Williams Brothers Gold American Blonde 16oz 3.9%
+Singapore
+Tiger Pale Lager 11oz 5.0%
+Slovak Republic
+Golden Pheasant Pilsner 16oz 5.0%
+Spain
+Estrella Damm Pale Lager 12oz 5.3%
+Sri Lanka
+Lion Stout Stout 11oz 8.0%
+Thailand
+Singha Pale Lager 12oz 5.0%
+Trinidad
+Carib Pale Lager 12oz 5.1%
+Turkey
+Efes Pilsner Pilsner 11oz 5.0%
+California
+Anchor Liberty Ale Pale Ale 12oz 5.9%
+Anchor Old Foghorn Barleywine 12oz 8.7%
+Anchor Porter Porter 12oz 5.6%
+Anchor Steam California Common California Common 12oz 4.9%
+Bison Organic Chocolate Stout Stout 12oz 6.0%
+Bison Organic Hop Cuvee IPA 12oz 5.5%
+Coronado 17th Anniversary Ale Imperial / Double IPA 22oz 9.5%
+Coronado Idiot IPA Imperial / Double IPA 12oz 8.5%
+Coronado Islander IPA IPA 22oz 7.5%
+Coronado Orange Ave Wit White Wheat 12oz 5.2%
+Fox Barrel Pacific Pear Cider 12oz 4.5%
+Lagunitas Censored Amber / Red Ale 12oz 5.8%
+Lagunitas IPA IPA 12oz 5.7%
+Lagunitas Maximus Imperial / Double IPA 12oz 8.2%
+Lagunitas Pils Pilsner 12oz 5.2%
+Lost Coast 8 Ball Stout Stout 12oz 5.8%
+Lost Coast Alleycat Amber Amber / Red Ale 12oz 6.0%
+Lost Coast Downtown Brown Brown Ale 12oz 5.0%
+Lost Coast Great White White Wheat 12oz 4.8%
+Lost Coast Indica IPA 12oz 5.1%
+Lost Coast Tangerine Wheat Wheat 12oz 5.0%
+Napa Smith Pale Ale Pale Ale 12oz 5.2%
+North Coast Acme IPA IPA 12oz 6.5%
+North Coast Acme Pale Ale Pale Ale 12oz 5.0%
+North Coast Blue Star Wheat 12oz 4.4%
+North Coast Old Rasputin Russian Imp. Imperial Stout 12oz 9.0%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+California
+North Coast Pranqster Belgian Golden 12oz 7.5%
+North Coast Red Seal Pale Ale 12oz 6.0%
+North Coast Scrimshaw Pilsner Pilsner 12oz 4.3%
+Sierra Nevada Pale Ale Pale Ale 12oz 5.6%
+Sierra Nevada Pale Ale Pale Ale 12oz Can 5.6%
+Sierra Nevada Torpedo Extra IPA IPA 12oz 7.2%
+Stone Arrogant Bastard Ale Strong Ale 22oz 7.2%
+Stone Cali-Belgique IPA IPA 22oz 6.9%
+Stone IPA IPA 12oz 6.9%
+Stone Oaked Arrogant Bastard Ale Strong Ale 12oz 7.1%
+Stone Pale Ale Pale Ale 12oz 5.4%
+Stone Ruination IPA Imperial / Double IPA 22oz 7.7%
+Stone Smoked Porter Porter 22oz 5.8%
+Stone Sublimely Self-Righteous Ale Dark India Pale Ale 12oz 8.7%
+Colorado
+Avery Ellie's Brown Ale Brown Ale 12oz 5.5%
+Avery IPA IPA 12oz 5.9%
+Avery White Rascal White Wheat 12oz 5.6%
+Blue Moon Belgian White White Wheat 12oz 5.3%
+Boulder Hazed and Infused Dry Hopped Ale Pale Ale 12oz 5.0%
+Boulder Mojo IPA IPA 12oz 7.2%
+Boulder Singletrack Amber / Red Ale 12oz 4.9%
+Fort Collins Chocolate Stout Stout 12oz 5.3%
+Fort Collins Rocky Mountain IPA IPA 12oz 6.2%
+Great Divide Belgian Yeti Imperial Stout 22oz 9.5%
+Great Divide Denver Pale Ale (DPA) Pale Ale 12oz 5.3%
+Great Divide Fresh Hop Pale Ale Pale Ale 22oz 6.1%
+Great Divide Hercules Imperial / Double IPA 22oz 9.0%
+Great Divide Titan IPA IPA 12oz 7.1%
+Left Hand Good JuJu Ginger Specialty Beer 12oz 4.5%
+Left Hand Milk Stout Stout 12oz 5.8%
+Left Hand Sawtooth Ale ESB 12oz 4.4%
+New Belgium Fat Tire Amber / Red Ale 12oz Can 5.2%
+New Belgium Ranger IPA IPA 12oz 6.5%
+New Belgium Sunshine Wheat Wheat 22oz 4.8%
+New Belgium Tripel Belgian Tripel 22oz 7.8%
+Oskar Blues Dale's Pale Ale Pale Ale 12oz Can 6.5%
+Oskar Blues Deviant Dale's IPA IPA 16oz Can 8.0%
+Oskar Blues G'Knight Imperial Amber/Red Ale 16oz Can 8.6%
+Oskar Blues Mama's Little Yella Pils Pilsner 12oz Can 5.3%
+Tommyknocker Butt Head Bock Doppelbock 12oz 8.2%
+Tommyknocker Maple Nut Brown Ale Brown Ale 12oz 4.5%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Delaware
+Dogfish Head 60 Minute IPA IPA 12oz 6.0%
+Dogfish Head 90 Minute IPA Imperial / Double IPA 12oz 9.0%
+Dogfish Head Midas Touch Specialty Beer 12oz 9.0%
+Dogfish Head Palo Santo Marron Imperial Brown Ale 12oz 12.0%
+Florida
+Cigar City Florida Cracker White Ale White Wheat 12oz Can 4.8%
+Cigar City Maduro Brown Ale Brown Ale 12oz 5.5%
+Cigar City Maduro Brown Ale Brown Ale 12oz Can 5.5%
+Georgia
+Terrapin Rye Pale Ale Pale Ale 12oz 5.2%
+Hawaii
+Kona Longboard Lager Pale Lager 12oz Can 6.0%
+Illinois
+Goose Island Matilda Belgian Strong Pale Ale 12oz 7.0%
+Goose Island Pepe Nero Saison 12oz 6.0%
+Goose Island Pere Jacques Belgian Dubbel 12oz 8.0%
+Goose Island Sofie Saison 12oz 6.5%
+Louisiana
+Abita Amber Amber / Red Lager 12oz 4.4%
+Abita Jockamo IPA 12oz Can 6.5%
+Abita Purple Haze Wheat 12oz 4.2%
+Abita Restoration Pale Ale 12oz 5.0%
+Abita Turbodog Brown Ale 12oz 5.6%
+Maine
+Peak Organic Hop Noir Dark India Pale Ale 12oz 8.2%
+Peak Organic Hop Noir Dark India Pale Ale 16oz 8.2%
+Peak Organic IPA IPA 12oz 7.2%
+Peak Organic Nut Brown Ale Brown Ale 12oz 4.8%
+Peak Organic Pomegranate Wheat Wheat 12oz 5.8%
+Sea Dog Apricot Wheat Ale Wheat 12oz 4.5%
+Sea Dog Raspberry Wheat Ale Wheat 12oz 4.4%
+Sea Dog Wild Blueberry Wheat Ale Wheat 12oz 4.5%
+Shipyard Light Light Lager 12oz 3.9%
+Shipyard Pugsley's Signature Series XXXX IPA Imperial / Double IPA 12oz 9.3%
+Maryland
+Flying Dog Doggie Style Classic Pale Ale Pale Ale 12oz 5.5%
+Flying Dog In Heat Wheat Hefeweizen 12oz 4.7%
+Flying Dog Old Scratch Amber / Red Lager 12oz 5.5%
+Flying Dog Raging Bitch IPA 12oz 8.3%
+Flying Dog Snake Dog IPA 12oz 7.1%
+Heavy Seas Loose Cannon IPA 12oz 7.2%
+Heavy Seas Loose Cannon IPA 12oz Can 7.2%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Maryland
+Heavy Seas Peg Leg Stout Imperial Stout 12oz 8.0%
+Heavy Seas Red Sky at Night Saison 12oz 7.5%
+Stillwater & Hof Ten Dormaal Bronze Age Saison 12oz 6.0%
+Massachusetts
+Harpoon IPA IPA 12oz 5.9%
+Harpoon UFO Hefeweizen Hefeweizen 12oz 5.0%
+Samuel Adams Boston Ale Pale Ale 12oz 4.9%
+Samuel Adams Boston Lager Vienna Lager 12oz 4.7%
+Samuel Adams Boston Lager Vienna Lager 12oz Can 4.7%
+Samuel Adams Summer Ale Wheat 12oz 5.2%
+Samuel Adams Winter Lager Bock 12oz Can 5.8%
+Michigan
+Bell's Amber Amber / Red Ale 12oz 5.8%
+Bell's Kalamazoo Licorice Stout Stout 12oz 6.0%
+Bell's Oberon Wheat 12oz 5.8%
+Bell's Porter Porter 12oz 5.6%
+Bell's Two Hearted Ale IPA 12oz 7.0%
+Mississippi
+Lazy Magnolia Southern Pecan Brown Ale 12oz 4.0%
+Missouri
+Redbridge Gluten Free Specialty Beer 12oz 4.8%
+Wild Blue Blueberry Lager Specialty Beer 12oz 8.0%
+New York
+Blue Point Blueberry Ale Specialty Beer 12oz 4.6%
+Blue Point Hoptical Illusion IPA 12oz 6.8%
+Blue Point Toasted Lager Vienna Lager 12oz Can 5.3%
+Brooklyn Brown Ale Brown Ale 12oz 5.6%
+Brooklyn East India Pale Ale IPA 12oz Can 6.9%
+Brooklyn Lager Vienna Lager 12oz 5.2%
+Brooklyn Local One Belgian Golden 25oz 9.0%
+Brooklyn Local Two Belgian Strong Dark Ale 25oz 9.0%
+Brooklyn Pennant Ale Pale Ale 12oz 5.0%
+Coney Island Lager Vienna Lager 22oz 5.5%
+He'Brew Genesis Ale Pale Ale 12oz 5.9%
+He'Brew Messiah Bold Brown Ale 12oz 5.9%
+JW Dundee's Honey Brown Specialty Beer 12oz 4.4%
+Ommegang Abbey Ale Belgian Dubbel 12oz 8.5%
+Ommegang Hennepin Saison 12oz 7.4%
+Ommegang Rare Vos Amber Ale Belgian Amber 12oz 6.5%
+Ommegang Three Philosophers Belgian Quad 12oz 9.8%
+Ommegang Witte White Wheat 12oz 5.0%
+Southampton Double White White Wheat 12oz 6.6%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+New York
+Southern Tier 422 Wheat 12oz 5.8%
+Oregon
+Full Sail Amber Ale Amber / Red Ale 12oz 5.5%
+Full Sail IPA IPA 12oz 6.0%
+Full Sail Pale Ale Pale Ale 12oz 5.4%
+Full Sail Session Lager Pale Lager 12oz 5.1%
+Rogue American Amber Amber / Red Ale 22oz 5.0%
+Rogue Brutal IPA IPA 22oz 6.0%
+Rogue Chocolate Stout Stout 22oz 6.3%
+Rogue Dead Guy Ale Maibock 12oz 6.6%
+Rogue Dead Guy Ale Maibock 22oz 6.6%
+Rogue Dry Hopped St. Rogue Red Amber / Red Ale 22oz 6.7%
+Rogue Hazelnut Brown Nectar Brown Ale 12oz 6.0%
+Rogue Hazelnut Brown Nectar Brown Ale 22oz 6.0%
+Rogue Irish Style Lager Pale Lager 22oz 5.1%
+Rogue Juniper Pale Ale Pale Ale 22oz 5.1%
+Rogue Mocha Porter Porter 12oz 5.0%
+Rogue Shakespeare Oatmeal Stout Stout 22oz 5.9%
+Rogue Voodoo Doughnut Chocolate, Peanut Butter & Banana Ale Specialty Beer 25oz 5.3%
+Widmer Brothers Alchemy Pale Ale 12oz 6.0%
+Pennsylvania
+Erie Derailed Ale Cream Ale 12oz 5.0%
+Erie Mad Anthony's Ale Pale Ale 12oz 5.5%
+Erie Presque Isle Pilsner Pilsner 12oz 4.2%
+Erie Railbender Ale Scottish Ale 12oz 6.8%
+Iron City Pale Lager 12oz 4.4%
+Iron City Light Light Lager 12oz 4.1%
+Stoudt's Pils Pilsner 12oz 4.7%
+Victory Golden Monkey Belgian Tripel 12oz 9.5%
+Victory HopDevil Ale IPA 12oz 6.7%
+Victory Prima Pils Pilsner 12oz 5.3%
+Weyerbacher Double Simcoe IPA Imperial / Double IPA 12oz 8.9%
+Yuengling Traditional Lager Amber / Red Lager 12oz 4.9%
+Yuengling Traditional Lager Amber / Red Lager 12oz Can 4.9%
+Yuengling Traditional Lager Amber / Red Lager 16oz Can 4.9%
+Puerto Rico
+Medalla Light Light Lager 12oz 4.5%
+Texas
+Shiner Bock Bock 12oz 4.0%
+Vermont
+Magic Hat #9 Pale Ale 12oz 5.1%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
+Vermont
+Magic Hat Séance Saison 12oz 4.4%
+Woodchuck Amber Cider 12oz 5.0%
+Woodchuck Granny Smith Cider 12oz 5.0%
+Woodchuck Pear Cider 12oz 4.0%
+Woodchuck Raspberry Cider 12oz 4.0%
+Virgin Islands
+Virgin Island Island Hoppin' IPA IPA 12oz 6.2%
+Virgin Island Tropical Mango Pale Ale 12oz 4.5%
+Wisconsin
+Leinenkugel's Berry Weiss Wheat 12oz 5.0%
+Leinenkugel's Orange Shandy Specialty Beer 12oz 4.2%
+Leinenkugel's Sunset Wheat Wheat 12oz 4.9%
+Venezuela
+Polar Pale Lager 12oz 5.0%
+Vietnam
+Saigon Export Pale Lager 12oz 4.7%
+NAME STYLE SIZE ABV %
+BOTTLES
+WINTER 2013-2014
